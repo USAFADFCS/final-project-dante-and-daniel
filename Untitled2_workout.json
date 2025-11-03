@@ -1,0 +1,42 @@
+{
+  "exercises": [
+    {
+      "name": "Dips",
+      "sets": [
+        {
+          "set_number": 1,
+          "reps": 12,
+          "weight": "10 pounds",
+          "reps_in_reserve": 2
+        },
+        {
+          "set_number": 2,
+          "reps": 12,
+          "weight": "10 pounds",
+          "reps_in_reserve": 2
+        }
+      ]
+    },
+    {
+      "name": "Dips (Body Weight)",
+      "sets": [
+        {
+          "set_number": 1,
+          "reps": 10,
+          "weight": "body weight",
+          "reps_in_reserve": 2
+        },
+        {
+          "set_number": 2,
+          "reps": 8,
+          "weight": "body weight",
+          "notes": "one rep with 2 reps in reserve"
+        }
+      ]
+    }
+  ],
+  "workout_type": "strength",
+  "duration": null,
+  "date": null,
+  "notes": "General workout notes"
+}

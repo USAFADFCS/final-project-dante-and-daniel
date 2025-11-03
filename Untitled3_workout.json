@@ -1,0 +1,19 @@
+{
+  "exercises": [
+    {
+      "name": "Leg Press",
+      "sets": [
+        {
+          "set_number": 1,
+          "reps": 12,
+          "weight": "400 pounds",
+          "reps_in_reserve": 2
+        }
+      ]
+    }
+  ],
+  "workout_type": "strength",
+  "duration": "",
+  "date": "",
+  "notes": "My knees didn't hurt."
+}

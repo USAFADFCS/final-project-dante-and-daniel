@@ -1,0 +1,27 @@
+{
+  "exercises": [
+    {
+      "name": "body weight pull-ups",
+      "sets": [
+        {
+          "set_number": 2,
+          "reps": 8,
+          "weight": "",
+          "reps_inreserve": 2,
+          "notes": "none"
+        },
+        {
+          "set_number": 3,
+          "reps": 6,
+          "weight": "",
+          "reps_inreserve": 1,
+          "notes": "none"
+        }
+      ]
+    }
+  ],
+  "workout_type": "strength",
+  "duration": "not mentioned",
+  "date": "today",
+  "notes": "none"
+}
