@@ -1,0 +1,7 @@
+{
+  "name": "Agentic FitCoach",
+  "description": "An AI-powered fitness assistant that logs your workouts and provides coaching advice based on your history.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
