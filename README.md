@@ -29,3 +29,7 @@ npm install
 ```bash
 npm run dev
 ```
+
+
+Documentation:
+We used Copilot and Google AI Studio to help us structure and put together a lot of the project. 
